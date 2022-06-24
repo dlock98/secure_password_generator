@@ -1,6 +1,6 @@
-#Secure Password Generator
+# Secure Password Generator
 
-##Project Descritpion:
+## Project Descritpion:
 
 I am creating a secure password for a company based on five criteria:
 
